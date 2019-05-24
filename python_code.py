@@ -1,0 +1,3 @@
+print "hello workd"
+:wq
+
